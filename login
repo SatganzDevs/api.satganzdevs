@@ -14,9 +14,9 @@
   <meta property="og:image:type" content="image/jpeg"> 
   <meta property="og:image:width" content="1280"> 
   <meta property="og:image:height" content="800"> 
-  <meta property="og:url" content="https://xyroinee.xyz"> 
+  <meta property="og:url" content="https://satganzdevs.cloud"> 
   <meta property="twitter:card" content="summary_large_image"> 
-  <link rel="canonical" href="https://xyroinee.xyz"> 
+  <link rel="canonical" href="https://satganzdevs.cloud"> 
   <link href="https://fonts.googleapis.com/css?family=Roboto:400,400italic,700,700italic%7CSource+Code+Pro:400,400italic,700,700italic" rel="stylesheet" type="text/css"> 
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.css"> 
   <link rel="icon" type="image/x-icon" href="https://i.pinimg.com/originals/bc/f5/97/bcf5977efdb95a66ea0efaf8d6a0355f.png"> 
