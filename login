@@ -1,13 +1,13 @@
 <!doctype html>
 <html lang="en">
  <head> 
-  <title>Xyroinee-ID
+  <title>SatganzDevs-ID
 </title> 
   <meta charset="utf-8"> 
   <meta name="viewport" content="width=device-width,initial-scale=1"> 
   <meta name="description" content="Website Gabut"> 
-  <meta property="og:site_name" content="Xyroinee"> 
-  <meta property="og:title" content="Xyroinee"> 
+  <meta property="og:site_name" content="SatganzDevs"> 
+  <meta property="og:title" content="SatganzDevs"> 
   <meta property="og:type" content="website"> 
   <meta property="og:description" content="Website Gabut"> 
   <meta property="og:image" content="https://i.pinimg.com/originals/5b/de/51/5bde5150fb2b1478fef0d40d9b4b47a0.jpg"> 
@@ -28,19 +28,19 @@
   </noscript>  
   <meta charset="utf-8"> 
   <meta property="og:site_name" content="api.xyroinee.xyz/login"> 
-  <meta property="og:title" content="Sign In | Xyroinee - APIs"> 
-  <meta property="og:url" content="https://api.xyroinee.xyz/login"> 
+  <meta property="og:title" content="Sign In | SatganzDevs - APIs"> 
+  <meta property="og:url" content="satganzdevs.cloud/login"> 
   <meta property="og:image" content="https://i.pinimg.com/736x/e4/96/c7/e496c72bcc8f1fe53632b4bc1ffff4f2.jpg"> 
   <meta property="og:image:type" content="image/jpg"> 
   <meta property="og:image:width" content="400"> 
   <meta property="og:image:height" content="400"> 
-  <meta property="og:image:alt" content="Xyroinee"> 
+  <meta property="og:image:alt" content="SatganzDevs"> 
   <meta property="og:description" content="Login"> 
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"> 
   <meta name="description" content="Login"> 
-  <meta name="author" content="Xyroinee"> 
+  <meta name="author" content="SatganzDevs"> 
   <meta name="keywords" content="Login"> 
-  <title>Xyroinee-APIs</title> 
+  <title>SatganzDevs-APIs</title> 
   <!-- ICON --> 
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/boxicons@latest/css/boxicons.min.css"> 
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"> 
